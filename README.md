@@ -1,14 +1,14 @@
 <h1 align="center">Hey there 👋, I'm Shubham Kumar</h1>
 
 <p align="center">
-  <b>CS Undergrad @ Chandigarh University · Backend & Full-Stack Engineer · Research Author</b><br/>
+  <b>CS Undergrad @ Chandigarh University · Software & Full-Stack Engineer · Research Author</b><br/>
   <i>Building scalable systems, one commit at a time.</i>
 </p>
 
 <p align="center">
   <a href="mailto:shubhamkumar040306@gmail.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/yourusername">🐙 GitHub</a>
+  <a href="https://www.linkedin.com/in/shubhamkr04/">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/shubhamkr04">🐙 GitHub</a>
 </p>
 
 ---
@@ -89,20 +89,3 @@ Contributed to the design and analysis of an IoT-enabled smart energy monitoring
 | Full Stack Web Development Bootcamp | Udemy | 2024 |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Translating complex requirements into efficient code — one problem at a time."</i>
-</p>
