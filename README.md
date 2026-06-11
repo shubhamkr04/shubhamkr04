@@ -56,7 +56,7 @@ I'm a Computer Science undergraduate with a strong foundation in **data structur
 
 ---
 
-## 🔑 Featured Projects
+## 🔑 Research and Projects
 
 ### 🛒 [E-Commerce Mini Application]
 > **Spring Boot · React · JWT · MySQL · Stripe**
