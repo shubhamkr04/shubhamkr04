@@ -58,14 +58,14 @@ I'm a Computer Science undergraduate with a strong foundation in **data structur
 
 ## 🔑 Featured Projects
 
-### 🛒 [E-Commerce Mini Application](https://github.com/yourusername/ecommerce-app)
+### 🛒 [E-Commerce Mini Application]
 > **Spring Boot · React · JWT · MySQL · Stripe**
 
 A full-stack e-commerce platform with JWT authentication, role-based access control, and RESTful APIs. Includes cart management, order processing, and Stripe payment integration.
 
 ---
 
-### 📈 [Algorithm Convergence Visualizer](https://github.com/yourusername/algo-visualizer)
+### 📈 [Algorithm Convergence Visualizer]
 > **Python · Tkinter · Matplotlib · NumPy**
 
 Interactive desktop app that visualizes and compares the convergence behavior of five numerical root-finding algorithms in real time, with custom equation support.
