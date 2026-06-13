@@ -18,7 +18,7 @@
 I'm a Computer Science undergraduate with a strong foundation in **data structures, algorithms, and backend engineering**. I enjoy building robust, data-driven systems — from full-stack web apps to IoT research frameworks.
 
 - 🎓 **BE CSE** @ Chandigarh University *(Expected June 2027)*
-- 🏆 Published research at **ICCCNT 2025, IIT Indore**
+- 🏆 Research Author with presentations at ICCCNT 2025 (IIT Indore) and ICASET 2026
 - ☁️ **AWS Certified Cloud Practitioner** (2025)
 - 🌱 Currently deepening expertise in **Spring Boot, distributed systems, and cloud architecture**
 - 📍 Based in Chandigarh, India
@@ -56,28 +56,34 @@ I'm a Computer Science undergraduate with a strong foundation in **data structur
 
 ---
 
-## 🔑 Research and Projects
+## 📚 Research Publications
+
+### 📄 Systematic Mapping of Blockchain Research: From Consensus Mechanisms to Real-World Applications
+> ICASET 2026
+
+Conducted a systematic mapping study analyzing blockchain consensus mechanisms, research trends, challenges, and real-world applications.
+
+---
+
+### ⚡ IoT-Based Smart Energy Meter for Real-Time Monitoring and Efficient Energy Management
+> ICCCNT 2025 · IIT Indore
+
+Contributed to the design and analysis of an IoT-enabled smart energy monitoring framework for real-time energy management and monitoring.
+---
+
+## 🚀 Software Projects
 
 ### 🛒 [E-Commerce Mini Application]
 > **Spring Boot · React · JWT · MySQL · Stripe**
 
-A full-stack e-commerce platform with JWT authentication, role-based access control, and RESTful APIs. Includes cart management, order processing, and Stripe payment integration.
+A full-stack e-commerce platform with JWT authentication, role-based access control, and RESTful APIs.
 
 ---
 
 ### 📈 [Algorithm Convergence Visualizer]
 > **Python · Tkinter · Matplotlib · NumPy**
 
-Interactive desktop app that visualizes and compares the convergence behavior of five numerical root-finding algorithms in real time, with custom equation support.
-
----
-
-### ⚡ IoT-Based Smart Energy Meter *(Research)*
-> **Research Paper · ICCCNT 2025, IIT Indore**
-
-Contributed to the design and analysis of an IoT-enabled smart energy monitoring framework for real-time energy management. Presented at a premier IEEE conference.
-
----
+Interactive desktop application for visualizing and comparing numerical root-finding algorithms in real time.
 
 ## 📜 Certifications
 
